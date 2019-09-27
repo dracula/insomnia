@@ -1,0 +1,11 @@
+{
+	"name": "theme-dracula",
+	"version": "1.0.0",
+	"description": "Official Dracula Theme. A dark theme for many editors, shells, and more.",
+	"license": "MIT",
+	"main": "index.js",
+	"insomnia": {
+		"name": "theme-dracula",
+		"description": "Official Dracula Theme. A dark theme for many editors, shells, and more."
+	}
+}
