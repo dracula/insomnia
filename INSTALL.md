@@ -15,6 +15,7 @@ Download using the [GitHub .zip download](https://github.com/dracula/insomnia/ar
 ### Activating theme
 
 - Copy insomnia folder.
-- In Insomnia, got to *Preferences* in *Application* and *Plugins* click on *Show plugins folder*.
+- In Insomnia, got to *Application* and *Preferences*, click in *Plugins*, at least click on *Reveal Plugins Folder*.
 - Inside the plugin folder paste insomnia folder.
-- Go back to *Insomnia Preferences*, click in *Themes* and select **Dracula** to apply the theme.
+- Close Insomnia, reopen Insomnia.
+- Go back to *Application* and*Preferences*, click in *Themes* and select **Dracula** to apply the theme.
