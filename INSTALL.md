@@ -18,4 +18,4 @@ Download using the [GitHub .zip download](https://github.com/dracula/insomnia/ar
 - In Insomnia, got to *Application* and *Preferences*, click in *Plugins*, at least click on *Reveal Plugins Folder*.
 - Inside the plugin folder paste insomnia folder.
 - Close Insomnia, reopen Insomnia.
-- Go back to *Application* and*Preferences*, click in *Themes* and select **Dracula** to apply the theme.
+- Go back to *Application* and *Preferences*, click in *Themes* and select **Dracula** to apply the theme.
