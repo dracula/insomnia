@@ -1,11 +1,29 @@
 {
-	"name": "theme-dracula",
-	"version": "1.0.0",
-	"description": "Official Dracula Theme. A dark theme for many editors, shells, and more.",
-	"license": "MIT",
-	"main": "index.js",
-	"insomnia": {
-		"name": "theme-dracula",
-		"description": "Official Dracula Theme. A dark theme for many editors, shells, and more."
-	}
+  "name": "insomnia-plugin-theme-dracula",
+  "version": "1.0.0",
+  "description": "Official Dracula Theme. A dark theme for many editors, shells, and more.",
+  "license": "MIT",
+  "main": "index.js",
+  "insomnia": {
+    "name": "theme-dracula",
+    "description": "Official Dracula Theme. A dark theme for many editors, shells, and more."
+  },
+  "keywords": [
+    "dracula",
+    "theme",
+    "insomnia",
+    "insomnia-plugin"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dracula/insomnia.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/dracula/insomnia/issues"
+  },
+  "homepage": "https://draculatheme.com/insomnia"
 }
