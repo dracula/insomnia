@@ -2,8 +2,13 @@
 
 #### Install
 
-- In Insomnia, got to _Application_ and _Preferences_, click in _Plugins_, at least paste `insomnia-plugin-theme-dracula` and click on _Install Plugin_
+1. In Insomnia, go to _Application_ and select _Preferences_
+2. Click on _Plugins_
+3. Paste `insomnia-plugin-theme-dracula` into the package name field
+4. Click on _Install Plugin_
 
 #### Activating theme
 
-- In Insomnia, got to _Application_ and _Preferences_, click in _Themes_ and select **Dracula** to apply the theme.
+1. Go to _Application_ and select _Preferences_
+2. Click on _Themes_
+3. Select **Dracula** to apply the theme
