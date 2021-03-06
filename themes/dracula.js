@@ -13,12 +13,12 @@ module.exports = {
 		},
 		foreground: {
 			default: '#f8f8f2',
-			success: '#f8f8f2',
-			notice: '#f8f8f2',
-			warning: '#f8f8f2',
-			danger: '#f8f8f2',
-			surprise: '#f8f8f2',
-			info: '#f8f8f2'
+			success: '#282a36',
+			notice: '#282a36',
+			warning: '#282a36',
+			danger: '#282a36',
+			surprise: '#282a36',
+			info: '#282a36'
 		},
 		highlight: {
 			default: 'rgba(98, 114, 164, .5)',
