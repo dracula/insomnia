@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-theme-dracula",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Official Dracula Theme. A dark theme for many editors, shells, and more.",
   "license": "MIT",
   "main": "index.js",
