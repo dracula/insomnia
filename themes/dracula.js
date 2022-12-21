@@ -54,7 +54,12 @@ module.exports = {
 				background: {
 					default: 'rgba(40, 42, 54, 0.5)'
 				}
-			}
+			},
+		},
+		rawCss: `
+		.tooltip a {
+			background: var(--color-surprise);
 		}
+	`	
 	}
 }
